@@ -3,7 +3,8 @@
 - MVVM
 - Hilt
 - Room
-
-![ss1](https://github.com/nurhamidqq/jetpacknoteapp/blob/master/ss/1.jpeg)
-![ss2](https://github.com/nurhamidqq/jetpacknoteapp/blob/master/ss/2.jpeg)
-![ss3](https://github.com/nurhamidqq/jetpacknoteapp/blob/master/ss/3.jpeg)
+<p align="center">
+  <img src="https://github.com/nurhamidqq/jetpacknoteapp/blob/master/ss/1.jpeg" width="30%" />
+  <img src="https://github.com/nurhamidqq/jetpacknoteapp/blob/master/ss/2.jpeg" width="30%" /> 
+  <img src="https://github.com/nurhamidqq/jetpacknoteapp/blob/master/ss/3.jpeg" width="30%" />
+</p>
